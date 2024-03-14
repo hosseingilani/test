@@ -14,12 +14,12 @@ export const PLATFORM_SHARABLE_URL = 'v2-play.gamba.so'
 export const TOKENS: TokenMeta[] = [
   GambaStandardTokens.sol,
   GambaStandardTokens.usdc,
-  // {
-  //   mint: new PublicKey(""),
-  //   symbol: '???',
-  //   name: 'Custom SPL Token',
-  //   image: "image url",
-  //   decimals: 6,
-  //   baseWager: 1 * 1e6,
-  // }
+ {
+mint: new PublicKey("TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"),
+symbol: 'PANDA',
+name: 'PANDA',
+image: "https://ipfs.io/ipfs/QmV99yK93awEhFzWq5zvUw916srnhKYBB75YFG12Rritdv",
+decimals: 6,
+baseWager: 1 * 1e6,
+}
 ]
