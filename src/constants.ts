@@ -19,7 +19,7 @@ mint: new PublicKey("BwgMrcpHzRPiQjcN1L6j1LMtubCkyjA526EuGEJR9Yx2"),
 symbol: 'PANDA',
 name: 'PANDA',
 image: "https://ipfs.io/ipfs/QmV99yK93awEhFzWq5zvUw916srnhKYBB75YFG12Rritdv",
-decimals: 6,
-baseWager: 1 * 1e6,
+decimals: 9,
+baseWager: 10 * 1e6,
 }
 ]
